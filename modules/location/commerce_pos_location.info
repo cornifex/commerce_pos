@@ -7,4 +7,3 @@ dependencies[] = commerce_pos
 dependencies[] = addressfield
 
 files[] = includes/commerce_pos_location.controller.inc
-files[] = includes/commerce_pos_location.entity.inc
